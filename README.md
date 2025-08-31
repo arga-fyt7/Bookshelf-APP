@@ -2,6 +2,8 @@
 
 Aplikasi web sederhana dan responsif untuk mengatur koleksi buku Anda. Aplikasi ini memungkinkan Anda untuk menambah, melihat, mengedit, mencari, memfilter, dan mengurutkan buku, serta mengkategorikannya ke dalam bagian "Belum Dibaca" dan "Selesai Dibaca".
 
+**Silahkan jalankan**:https://24781065-argaabiyyu-bookshelfapp.netlify.app/
+
 ## Fitur
 
 - **Tambah Buku**: Mudah menambahkan buku baru dengan judul, penulis, tahun terbit, dan status dibaca/belum dibaca.
